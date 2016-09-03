@@ -1,7 +1,6 @@
-package web.utils.passwordUtils;
+package web.utils;
 
 
-import com.sun.org.apache.xerces.internal.dom.PSVIAttrNSImpl;
 import org.apache.commons.lang3.Validate;
 
 import java.io.IOException;

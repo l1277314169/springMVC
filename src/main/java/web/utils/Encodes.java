@@ -1,4 +1,4 @@
-package web.utils.passwordUtils;
+package web.utils;
 
 import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.binary.Base64;

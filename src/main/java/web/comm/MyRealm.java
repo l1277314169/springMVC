@@ -10,7 +10,7 @@
 //import org.springframework.beans.factory.annotation.Autowired;
 //import web.po.User;
 //import web.service.UserService;
-//import web.utils.passwordUtils.PasswordHelper;
+//import PasswordHelper;
 //
 ///**
 // * <p>User: liuhonger

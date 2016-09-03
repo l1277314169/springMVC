@@ -1,4 +1,4 @@
-package web.utils.passwordUtils;
+package web.utils;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
